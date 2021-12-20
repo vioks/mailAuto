@@ -1,0 +1,6 @@
+1. input 폴더에 급여명세서 PDF 파일을 넣는다.
+2. .env파일을 만들고 아래와 같이 작성 후 저장, 네이버웍스 메일에서 IAMP/POP3 허용
+smtpUser=xxxxxxxxx@hongikit.com 
+smtpPass=xxxxxxxx
+3. start.exe 실행한다.
+4. output 폴더에 나눠진 PDF 파일을 확인 할 수 있고, 메일이 도착 했음을 확인 할 수 있다.
